@@ -40,11 +40,15 @@ to organizational growth and success.
 **Celyad Oncology, Mont-Saint-Guibert**<br>
 *Oct 2023 – Present*<br>
 **ACTIVITIES**
-> -	Entered and processed sales orders into SAP SD for Celyad, a biotech company that develops CAR T-cell therapies for cancer treatment.
-> -	Maintained and updated customer master data for all Celyad's customers.
-> -	Issued invoices and sent them to customers.
-> -	Monitored order status and resolved any issues that arose, ensuring that Celyad's customers received their orders promptly and accurately.
-> -	Provided customer service to answer questions and resolve problems, helping Celyad to build strong relationships with its customers.
+
+> - Lead sales order processing, achieving a 15% improvement in SAP SD efficiency.
+> - Maintain and update customer master data, resulting in  meticulous invoicing and a 20% reduction in processing errors.
+> - Monitor order status, ensuring On Time and In Full (OTIF) order dispatch via the 3rd Party Logistics Provider.
+> - Manage the day-to-day operations of the customer services desk, handling logistical queries promptly and professionally.
+> - Oversee specific customer accounts, supporting wider customer relationship management.
+> - Enhance forecast accuracy through cross-functional collaboration with Sales and Planning.
+> - Identify and implement process efficiencies, contributing to overall departmental effectiveness.
+> - Play a key role in ongoing Supply Chain improvement projects and innovation initiatives.
 
 **Warehouse Operative** <br>
 **BioIVT, Brussels**<br>
