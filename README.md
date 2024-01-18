@@ -35,14 +35,6 @@ to organizational growth and success.
 *2010 - 2013* <br>
 
 ## Work Experience 
-**SAP Junior Consultant, SCM**<br>
-**SOA People, The Value Chain**<br>
-*Feb 2024 – Present*<br>
-**ACTIVITIES**
-> -	Porojects: CSM Bakery Solutions (Customer Solutions, Support), Ardo (SAP Go-Live, Support), ADB SAFEGATE (SAP Implementation) 
-> -	Providing comprehensive SAP technical support to clients across various industries, resolving complex issues related to SAP PP, MM, PM, and QM modules, ensuring business processes run smoothly.
-> -	Proficiently analyzed and troubleshooted SAP-related problems, identifying root causes and implementing effective solutions, minimizing downtime and maximizing system availability.
-> -	Collaborated closely with clients, providing in-depth technical explanations and helping them understand SAP functionalities, enhancing their knowledge and empowering them to resolve issues independently. 
 
 **Sales Order Processing Specialist**<br>
 **Celyad Oncology, Mont-Saint-Guibert**<br>
