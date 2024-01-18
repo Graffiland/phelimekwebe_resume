@@ -36,7 +36,7 @@ to organizational growth and success.
 
 ## Work Experience 
 
-**Sales Order Processing Specialist**<br>
+**Customer Service & Sales Operations Specialist**<br>
 **Celyad Oncology, Mont-Saint-Guibert**<br>
 *Oct 2023 – Present*<br>
 **ACTIVITIES**
