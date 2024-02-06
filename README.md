@@ -37,7 +37,7 @@ to organizational growth and success.
 ## Work Experience 
 
 **Customer Service & Sales Operations Specialist**<br>
-**Celyad Oncology, Mont-Saint-Guibert**<br>
+**Eumedica Pharmaceuticals SA**<br>
 *Oct 2023 – Present*<br>
 **ACTIVITIES**
 
